@@ -36,6 +36,6 @@ _API Based_
 
 # Plan
 
-I want to copy all my posts over to my mastodon account and I want to find all my friends who have moved too. I also want to have some way to tell people I've moved
+I want to copy all my posts over to my mastodon account and I want to find all my friends who have moved too. I also want to have some way to tell people I've moved. It should be _super simple_. Want everyone to be able use
 
-Twitter are limiting API access for this, so this tool will scrape posts and contacts from your page instead. It should be as simple as possible and you should control all the data (I don't want to authorize anything with twitter)
+Twitter are limiting API access for this, so this tool will scrape posts and contacts from your page instead. You should control all the data (I don't want to authorize anything with twitter)
