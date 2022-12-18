@@ -50,4 +50,4 @@ Roadmap
 - [ ] Track visited posts in localStorage to avoid duplication
 - [ ] POC: can copy text posts reliably in order of posting
 --
-- [ ] Image re-posting with progressive posting
+- [ ] Image positing, progressively to avoid saving the images in mass
