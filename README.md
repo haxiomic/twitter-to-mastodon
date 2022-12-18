@@ -9,3 +9,9 @@ It's now a banable offence to even so much as mention another social network, th
 
 # Where is the code?
 Literally just started, will push as I go!
+
+# Other tools (please suggest more!)
+
+Find contacts that have moved
+- https://fedifinder.glitch.me/
+- https://twitodon.com/
