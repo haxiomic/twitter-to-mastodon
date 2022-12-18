@@ -22,4 +22,4 @@ Find contacts that have moved
 
 I want to copy all my posts over to my mastodon account and I want to find all my friend who have moved too. I also want to have some way to tell people I've moved
 
-Twitter are limiting API access for this, so this tool will scrape posts and contacts from your page instead. It should be as simple as possible and you should control all the data
+Twitter are limiting API access for this, so this tool will scrape posts and contacts from your page instead. It should be as simple as possible and you should control all the data (I don't want to authorise anything with twitter)
