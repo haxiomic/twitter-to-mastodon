@@ -28,6 +28,9 @@ _Extension Based_
 - [Mastodon Handles in Twitter](https://chrome.google.com/webstore/detail/mastodon-handles-in-twitt/ncgejfiheecflhpoifeembagnjgigioi)
 
 _API Based_
+- https://debirdify.pruvisto.org/ (thanks  
+@guerrilla)
+- https://www.movetodon.org/ (thanks @NelsonMinar)
 - https://fedifinder.glitch.me/
 - https://twitodon.com/
 
